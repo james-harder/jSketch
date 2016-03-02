@@ -1,0 +1,16 @@
+body {
+	background: #555;
+}
+
+div {
+	margin: 0px auto;
+	width: 480px;
+}
+
+div.pixel {
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	background: #369;
+	float: left;
+}

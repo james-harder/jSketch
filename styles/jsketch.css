@@ -10,7 +10,7 @@ div {
 div.pixel {
 	width: 100px;
 	height: 100px;
-	margin: 10px;
+	margin: 1px;
 	background: #369;
 	float: left;
 }

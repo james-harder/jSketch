@@ -11,6 +11,12 @@ div.pixel {
 	width: 100px;
 	height: 100px;
 	margin: 1px;
+	padding: 0px;
 	background: #369;
 	float: left;
+}
+
+.buttonPanel { 
+	width: 200px;
+	margin: 20px auto 20px;
 }

@@ -1,3 +1,3 @@
 # jSketch
 a sketch app written with javascript/jQuery
-checkout [james-harder.me/jsketch.html] for a preview
+checkout [http://james-harder.me/jsketch.html] for a preview
